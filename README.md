@@ -8,7 +8,7 @@ CNNs are a class of deep learning models designed to process image data efficien
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are:
 
@@ -20,7 +20,7 @@ The main objectives of this project are:
 
 ---
 
-## 🏗️ CNN Architecture
+##  CNN Architecture
 
 The CNN model used in this project consists of the following layers:
 
@@ -29,13 +29,13 @@ The CNN model used in this project consists of the following layers:
 * **Pooling Layers** → Reduce spatial dimensions and computation
 * **Fully Connected Layers** → Perform classification
 
-### 🔄 Workflow
+###  Workflow
 
 Input Image → Convolution → ReLU → Pooling → Flatten → Fully Connected Layer → Output Prediction
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 This project is implemented using the following tools and libraries:
 
@@ -46,7 +46,7 @@ This project is implemented using the following tools and libraries:
 
 ---
 
-## 🚀 Installation and Setup
+##  Installation and Setup
 
 ### 1. Clone the Repository
 
@@ -69,13 +69,13 @@ python model.py
 
 ---
 
-## 📊 Results
+##  Results
 
 The CNN model learns important visual features such as edges, shapes, and facial patterns. These features are progressively refined across layers, allowing the model to classify facial expressions effectively.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 cnn-facial-expression-recognition-tutorial/
@@ -93,13 +93,13 @@ cnn-facial-expression-recognition-tutorial/
 
 ---
 
-## ♿ Accessibility
+##  Accessibility
 
 This tutorial has been designed to be accessible to students with different abilities. It uses clear and simple language, structured headings, and well-organized content to improve readability and support screen readers. Visual elements are explained with descriptive text, and the tutorial avoids relying solely on colour, making it suitable for colour-blind users. Code examples are clearly written with comments, and the combination of diagrams, explanations, and practical implementation supports multiple learning styles.
 
 ---
 
-## 🌍 Applications of CNNs
+##  Applications of CNNs
 
 CNNs are widely used in real-world applications such as:
 
@@ -111,19 +111,19 @@ CNNs are widely used in real-world applications such as:
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License**. You are free to use and modify this code with proper attribution.
 
 ---
 
-## 👤 Author
+##  Author
 
-**Laxminarayana**
+**Laxminarayana Guglothu**
 GitHub: https://github.com/laxminarayana19
 
 ---
 
-## ⭐ Acknowledgements
+## Acknowledgements
 
 This project is created as part of a Machine Learning tutorial assignment, aiming to provide a clear and practical understanding of CNNs.
