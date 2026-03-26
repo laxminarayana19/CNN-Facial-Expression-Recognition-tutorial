@@ -1,6 +1,6 @@
-#  CNN for Facial Expression Recognition
+CNN for Facial Expression Recognition
 
-## 📖 Overview
+Overview
 
 This project presents a comprehensive tutorial on **Convolutional Neural Networks (CNNs)**, combining theoretical understanding with practical implementation. The focus of this tutorial is to demonstrate how CNNs can be used for **facial expression recognition**, a key application in computer vision.
 
