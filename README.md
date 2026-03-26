@@ -1,4 +1,4 @@
-# 🧠 CNN for Facial Expression Recognition
+#  CNN for Facial Expression Recognition
 
 ## 📖 Overview
 
